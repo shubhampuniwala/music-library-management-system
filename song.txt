@@ -1,0 +1,22 @@
+agar tum saath ho	tamasha	alka yagnik		1
+Bandeya Rey Bandeya	Simmba	Arijit	abc4.wav	1
+Besabriyaan	MS Dhoni	Armaan Malik	abc6.wav	1
+Kaun Tujhe	MS Dhoni	Palak Muchhal	abc7.wav	1
+Parwah Nahin	MS Dhoni	Siddharth Basrur	abc8.wav	0
+Gali Gali	KGF Chap-1	Tanishk Bagchi	abc9.wav	0
+Jaadui	Tu Jhoothi Mai Makkaar	Jubin Nautiyal	abc10.wav	1
+Mere Yaaraa	Sooryavanshi	Arijit	abc11.wav	0
+Najaa	Sooryavanshi	Neeti Mohan	abc12.wav	0
+Pyaar Hota Kayi Baar	Tu Jhoothi Mai Makkaar	Arijit	abc16.wav	1
+O Bedardeya	Tu Jhoothi Mai Makkaar	Jubin Nautiyal	abc17.wav	1
+Sab ke Sapnon Ki	KGF Chap-1	Airaa Udupi	abc18.wav	0
+Salaam Rocky Bhai	KGF Chap-1	Mohan Krishna	abc19.wav	0
+Tere Pyar Mein	Tu Jhoothi Mai Makkaar	Arijit	abc20.wav	0
+Ae Zindagi Gale Laga Le	Dear Zindagi	Arijit	abc2.wav	0
+Ranjha 	Shershaah 	B_Praak 	abc7.wav 	1
+Tu_Jane_Na 	TU_Jane_Na 	atif_aslam 	abc6.wav 	0
+Luka_chuppi 	Rang_De_Basanti 	Lata_Mangeshkar 	abc5.wav 	1
+jab_tak 	M.S.Dhoni_The_untold_story 	Armaan_Malik 	abc4.wav 	0
+naina 	dangal 	Arijit 	abc15.wav 	1
+teri_mitti 	kesari 	B_Praak 	abc12.wav 	1
+Apna_har_din 	golmaal3 	pritam 	abc10.wav 	0
